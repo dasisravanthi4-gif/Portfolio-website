@@ -32,11 +32,14 @@ Portfolio Website:
 
 ### Features
 --> Home page with personal details.
+
 --> Contact form with name,email,and message fields.
+
 --> Responsive design using HTML & CSS.
 
 ### Technologies Used
 --> Python Flask(Backend)
+
 --> HTML/CSS(Frontend)
 
 
