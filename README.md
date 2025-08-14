@@ -5,10 +5,15 @@ This is a simple Flask-based portfolio website. It displays personal information
 ##  Project Structure
 Portfolio Website:
 │── app.py # Main Flask application
+
 │── requirements.txt # Python dependencies
+
 │── templates/ # HTML templates
+
 │ ├── index.html
+
 │ ├── contact.html
+
 │── static/ # Static assets (CSS, JS, images) 
 
 ## How to Run
